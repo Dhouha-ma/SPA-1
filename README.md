@@ -1,5 +1,5 @@
-# SPA-1
-Single Page Application - UpSkill
+# Single Page Application
 
-This was an internship project within The Bridge, Sousse.
-A training platform based on AngularJs, JavaScript, HTML, CSS..
+E-learning application based on JavaScript, HTML, CSS and jQuery
+
+Dhouha Mansour
